@@ -1,2 +1,2 @@
 ﻿Console.Clear();
-CSharpReview.Tutorial2.LessonFifth();
+CSharpReview.Tutorial3.Run();
