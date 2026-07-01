@@ -17,3 +17,4 @@
 - [ ] Learning - [C#을 사용하여 첫 번째 코드 작성(C#시작, 1부)]: [🔗](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/)
 - [x] Tutorial - Perform basic string formatting in C# (Tutorial3.cs): [🔗](https://learn.microsoft.com/en-us/training/modules/csharp-basic-formatting/)
 - [x] Tutorial - Perform basic operations on numbers in C# (Tutorial4.cs): [🔗](https://learn.microsoft.com/en-us/training/modules/csharp-basic-operations/)
+- [x] Tutorial - Guided project - Calculate and print student grades (Tutorial5.cs) [🔗](https://learn.microsoft.com/en-us/training/modules/guided-project-calculate-print-student-grades/)
