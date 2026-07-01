@@ -1,6 +1,6 @@
 # CSharpReview
 
-## Log
+## Journal
 
 ### Day 1 (2026/06/28/Sunday)
 - [x] **Start Of Project**
@@ -16,3 +16,4 @@
 ### Day 3 (2026/07/01/Wednesday)
 - [ ] Learning - [C#을 사용하여 첫 번째 코드 작성(C#시작, 1부)]: [🔗](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/)
 - [x] Tutorial - Perform basic string formatting in C# (Tutorial3.cs): [🔗](https://learn.microsoft.com/en-us/training/modules/csharp-basic-formatting/)
+- [x] Tutorial - Perform basic operations on numbers in C# (Tutorial4.cs): [🔗](https://learn.microsoft.com/en-us/training/modules/csharp-basic-operations/)
